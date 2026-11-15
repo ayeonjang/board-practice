@@ -1,0 +1,9 @@
+{
+  "name": "board-search-pagination-practice",
+  "version": "1.0.0",
+  "private": true,
+  "description": "검색·정렬·오프셋 및 커서 페이지네이션 실습",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "dependencies": { "express": "^4.21.2" }
+}
